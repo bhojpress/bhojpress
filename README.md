@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Welcome to BhojPress!
+![BhojPress Logo](https://bhojpress.com/wp-content/themes/bhojpress/assets/img/logo.png)
 
 <!--
 **bhojpress/bhojpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
